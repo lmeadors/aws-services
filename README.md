@@ -1,4 +1,4 @@
-jackson-env
+aws-services
 ===
 
 This is a simplified API for AWS that I use in several projects - it's shared here to make it
